@@ -15,3 +15,7 @@ Bytes > total: 325MB, used: 138MB, free: 187MB
 Chunks > used: 2714042 free: 0
 =======================================================================
 ```
+
+#Notes
+
+Probably osx / linux only; only tested on OSX.
